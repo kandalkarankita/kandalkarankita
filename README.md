@@ -1,6 +1,5 @@
 
 # Hi there 👋 
-![Alt text](background_image.png)
 
 🔭 My name is **Ankita T. Kandalkar** – Master's student in **Bioinformatics** at Northeastern University.  
 🎯 I am seeking a **full-time role (starting Jan 2026)** in **Computational Biology, Bioinformatics, Molecular Modeling, and Machine Learning**.  
