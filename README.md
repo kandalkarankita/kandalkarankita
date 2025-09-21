@@ -2,7 +2,7 @@
 # Hi there 👋 
 
 🔭 My name is **Ankita T. Kandalkar** – Master's student in **Bioinformatics** at Northeastern University.  
-🎯 I am seeking a **full-time role (starting Jan 2026)** in **Computational Biology, Bioinformatics, Molecular Modeling, and Machine Learning**.  
+🎯 I am seeking a **full-time role** in **Computational Biology, Bioinformatics, Molecular Modeling, and Machine Learning**.  
 
 📚 Publications  
 
@@ -20,10 +20,8 @@
 
 📫 Let’s connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankita%20Kandalkar-blue)](https://www.linkedin.com/in/ankitatkandalkar)  
-✉️ Email: kandalkar.a@northeastern.edu  or  kandalkarankita@gmail.com
+✉️ Email: kandalkarankita@gmail.com or kandalkar.a@northeastern.edu
 
-😄 Pronouns: she/her  
-⚡ Fun fact: I love drawing random Pinterest illusion designs — it soothes me!  
 <!--
 **kandalkarankita/kandalkarankita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
