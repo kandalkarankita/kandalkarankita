@@ -28,10 +28,10 @@ Kandalkar A, Dinesh A, Nagare S. Identification of potent natural inhibitor agai
 
 ## 🔬 Research Highlights
 
-**Mass General Hospital** · Jan – Jun 2025
+**Mass General Hospital, Chao Lab** · Jan – Jun 2025
 Built AlphaLink2 structural model of TtMic60 dimer integrating BS3 XL-MS crosslinking constraints; improved DockQ from 0.003 (AlphaFold2) to 0.69; identified interface residues directly informing experimental mutagenesis design. Presented at Harvard Structural Biology Retreat 2025.
 
-**Boston Children's Hospital** · May – Aug 2024
+**Boston Children's Hospital, Wu Lab** · May – Aug 2024
 Curated 209-entry public Death Domain Fold structural database via PDB and DALI searches; generated all structural figures for PNAS co-first authored publication.
 
 **IHub-Data, IIIT Hyderabad** · Mar – Jun 2023
@@ -43,7 +43,7 @@ Modeled TGFBR1-HRI cancer signaling complex via ClusPro docking and 100 ns NAMD 
 **D.Y. Patil University** · Aug 2021 – Mar 2022
 First-authored virtual screening study of phytolignan inhibitors against SARS-CoV-2 PL-pro; identified Sesamolin as lead candidate (-8.4 kcal/mol).
 
-**IISER Pune** · Jan – Jul 2021
+**IISER Pune, Mukherjee Lab** · Jan – Jul 2021
 Applied LightGBM ML pipeline to predict A-DNA vs B-DNA conformation from genomic sequences; used SHAP analysis to interpret sequence-level structural determinants (model ROC AUC 0.97).
 
 ---
@@ -58,23 +58,54 @@ Applied LightGBM ML pipeline to predict A-DNA vs B-DNA conformation from genomic
 
 ## 🛠️ Technical Skills
 
-**Structure Prediction and Molecular Modeling**
-`AlphaLink2` `AlphaFold2` `AlphaFold3` `ClusPro 2.0` `PyRx` `AutoDock Vina` `HawkDock` `XL-MS constraints` `DockQ` `pLDDT` `PAE`
+**Languages and Core Tools**
 
-**Molecular Dynamics**
-`AMBER` `OpenMM` `NAMD` `GAFF2` `TIP3P` `MMPBSA` `NPT simulations` `HPC`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **ML and Data Science**
-`Python` `R` `scikit-learn` `LightGBM` `XGBoost` `SHAP` `Pandas` `NumPy` `SQL`
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
+![SHAP](https://img.shields.io/badge/SHAP-7B68EE?style=flat)
 
 **Genomics and Transcriptomics**
-`Nextflow` `nf-core` `STAR` `HISAT2` `DESeq2` `edgeR` `Scanpy` `Seurat` `Squidpy` `10x Visium` `BWA` `GATK`
 
-**Visualization and Structural Analysis**
-`PyMOL` `VMD` `UCSF Chimera` `Biovia Discovery Studio`
+![Nextflow](https://img.shields.io/badge/Nextflow-3EAE2B?style=flat&logo=nextflow&logoColor=white)
+![Scanpy](https://img.shields.io/badge/Scanpy-4B8BBE?style=flat)
+![Seurat](https://img.shields.io/badge/Seurat-2E8B57?style=flat)
+![Squidpy](https://img.shields.io/badge/Squidpy-7B2D8B?style=flat)
+![DESeq2](https://img.shields.io/badge/DESeq2-003366?style=flat)
+![GATK](https://img.shields.io/badge/GATK-CC0000?style=flat)
+![10x Visium](https://img.shields.io/badge/10x%20Visium-0072CE?style=flat)
 
-**Infrastructure**
-`Docker` `Docker Compose` `Terraform` `GCP` `Linux` `Git`
+**Structure Prediction and Molecular Modeling**
+
+![AlphaFold](https://img.shields.io/badge/AlphaFold2%2F3-0F4C81?style=flat)
+![AlphaLink2](https://img.shields.io/badge/AlphaLink2-2C3E50?style=flat)
+![PyMOL](https://img.shields.io/badge/PyMOL-E74C3C?style=flat)
+![VMD](https://img.shields.io/badge/VMD-1ABC9C?style=flat)
+![UCSF Chimera](https://img.shields.io/badge/UCSF%20Chimera-2980B9?style=flat)
+![AutoDock Vina](https://img.shields.io/badge/AutoDock%20Vina-8E44AD?style=flat)
+
+**Molecular Dynamics**
+
+![AMBER](https://img.shields.io/badge/AMBER-E67E22?style=flat)
+![OpenMM](https://img.shields.io/badge/OpenMM-2ECC71?style=flat)
+![NAMD](https://img.shields.io/badge/NAMD-E74C3C?style=flat)
+![MMPBSA](https://img.shields.io/badge/MMPBSA-16A085?style=flat)
+
+**Infrastructure and Containerization**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ---
 
