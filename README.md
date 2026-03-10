@@ -30,12 +30,16 @@ Kandalkar A, Dinesh A, Nagare S. Identification of potent natural inhibitor agai
 
 **Mass General Hospital** · Jan – Jun 2025
 
-Built AlphaLink2 structural model of TtMic60 dimer integrating BS3 XL-MS crosslinking constraints; improved DockQ from 0.003 (AlphaFold2) to 0.69; identified interface residues directly informing experimental mutagenesis design. Presented at Harvard Structural Biology Retreat 2025.
+Built AlphaLink2 structural model of TtMic60 dimer integrating BS3 XL-MS crosslinking constraints 
+improved DockQ from 0.003 (AlphaFold2) to 0.69
+identified interface residues directly informing experimental mutagenesis design. 
+Presented at Harvard Structural Biology Retreat 2025.
 
 
 **Boston Children's Hospital** · May – Aug 2024
 
-Curated 209-entry public Death Domain Fold structural database via PDB and DALI searches; generated all structural figures for PNAS co-first authored publication.
+Curated 209-entry public Death Domain Fold structural database via PDB and DALI searches
+generated all structural figures for PNAS co-first authored publication.
 
 
 **IHub-Data, IIIT Hyderabad** · Mar – Jun 2023
@@ -50,12 +54,14 @@ Modeled TGFBR1-HRI cancer signaling complex via ClusPro docking and 100 ns NAMD 
 
 **D.Y. Patil University** · Aug 2021 – Mar 2022
 
-First-authored virtual screening study of phytolignan inhibitors against SARS-CoV-2 PL-pro; identified Sesamolin as lead candidate (-8.4 kcal/mol).
+First-authored virtual screening study of phytolignan inhibitors against SARS-CoV-2 PL-pro
+identified Sesamolin as lead candidate (-8.4 kcal/mol).
 
 
 **IISER Pune** · Jan – Jul 2021
 
-Applied LightGBM ML pipeline to predict A-DNA vs B-DNA conformation from genomic sequences; used SHAP analysis to interpret sequence-level structural determinants (model ROC AUC 0.97).
+Applied LightGBM ML pipeline to predict A-DNA vs B-DNA conformation from genomic sequences
+used SHAP analysis to interpret sequence-level structural determinants (model ROC AUC 0.97).
 
 ---
 
