@@ -2,13 +2,9 @@
 
 **Computational Drug Discovery Scientist | Structural Bioinformatics | ML for Biological Data**
 
-Boston, MA · Open to relocation across the USA · **Actively seeking full-time roles**
-
 I build computational pipelines at the intersection of structural biology, molecular dynamics, and machine learning, with a focus on drug target discovery and protein structure prediction. My work spans crosslink-guided structural modeling, large-scale MD-based binding affinity datasets, and spatial transcriptomics analysis.
 
 MS in Bioinformatics, **Northeastern University**, December 2025.
-
-**Actively seeking full-time opportunities in computational biology, drug discovery, and bioinformatics. Open to relocation across the USA.**
 
 ---
 
@@ -90,7 +86,6 @@ Kandalkar A, Dinesh A, Nagare S. Identification of potent natural inhibitor agai
 ## 📜 Certifications
 
 - Nextflow for RNA-seq · Nextflow for Genomics · Nextflow Run — **Seqera (nf-core)**, Feb 2026
-- Data Engineering Zoomcamp 2026 — **DataTalks.Club** *(In Progress)*. Module 1: Docker, Docker Compose, GCP, Terraform
 
 ---
 
