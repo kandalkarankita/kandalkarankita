@@ -22,14 +22,6 @@ Kandalkar A, Dinesh A, Nagare S. Identification of potent natural inhibitor agai
 
 ---
 
-## 🗂️ Projects
-
-| Repository | Description | Status |
-|---|---|---|
-| [visium-cortical-structure-analysis](https://github.com/kandalkarankita/visium-cortical-structure-analysis) | Investigating whether unsupervised clustering on Visium spot expression recovers anatomically distinct tissue regions in mouse brain | Active |
-
----
-
 ## 🛠️ Technical Skills
 
 **Languages and Core Tools**
@@ -74,18 +66,6 @@ Kandalkar A, Dinesh A, Nagare S. Identification of potent natural inhibitor agai
 ![OpenMM](https://img.shields.io/badge/OpenMM-2ECC71?style=flat)
 ![NAMD](https://img.shields.io/badge/NAMD-E74C3C?style=flat)
 ![MMPBSA](https://img.shields.io/badge/MMPBSA-16A085?style=flat)
-
-**Infrastructure and Containerization**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-
----
-
-## 📜 Certifications
-
-- Nextflow for RNA-seq · Nextflow for Genomics · Nextflow Run — **Seqera (nf-core)**, Feb 2026
 
 ---
 
