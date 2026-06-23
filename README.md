@@ -1,6 +1,6 @@
 # Hi, I'm Ankita 👋
 
-**Computational Drug Discovery Scientist | Structural Bioinformatics | ML for Biological Data**
+**Computational Biology | Bioinformatics | AI Drug Discovery**
 
 I build computational pipelines at the intersection of structural biology, molecular dynamics, and machine learning, with a focus on drug target discovery and protein structure prediction. My work spans crosslink-guided structural modeling, large-scale MD-based binding affinity datasets, and spatial transcriptomics analysis.
 
