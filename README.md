@@ -1,75 +1,52 @@
-# Hi, I'm Ankita 👋
+# Hi there, I'm Ankita Tukaram Kandalkar! 👋
 
-**Computational Biology | Bioinformatics | AI Drug Discovery**
+**Bioinformatics Data Scientist**
 
-I build computational pipelines at the intersection of structural biology, molecular dynamics, and machine learning, with a focus on drug target discovery and protein structure prediction. My work spans crosslink-guided structural modeling, large-scale MD-based binding affinity datasets, and spatial transcriptomics analysis.
+I am a Bioinformatics Data Scientist with a Master's degree and hands-on experience engineering machine learning pipelines, structural modeling workflows, and multi-omics data infrastructure. My focus is on translating complex biological data into actionable therapeutic insights by building auditable AI evaluation frameworks, automating data pipelines, and optimizing preclinical target safety profiles.
 
-MS in Bioinformatics, **Northeastern University**, December 2025.
+## 💻 Tech Stack
 
----
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Programming & Data Science** | Python, R, Bash, SQL, Git, Statistical Modeling, PyMOL, py3Dmol, VMD |
+| **AI & Structural Modeling** | AlphaFold, AlphaLink2, RAG Pipelines, AI Agents, NAMD, OpenMM, AMBER Tools |
+| **Genomics & Bioinformatics** | RNA-seq, scRNA-seq, DESeq2, Seurat, Genomic Data Mining, TCGA, GTEx |
+| **Docking & Screening** | AutoDock Vina, PyRx, Discovery Studio, ADME Analysis |
+| **Databases** | RCSB-PDB, NCBI, UniProt, ChEMBL, PubChem, DrugBank, DALI Server |
 
-## 📄 Publications
+## 🚀 Featured Projects & Experience
 
-**Co-first Author**
-Wu EJ, Kandalkar AT, et al. Structural diversity of the Death Domain Fold superfamily.
-*PNAS*, 2025. · [www.deathdomain.org](http://www.deathdomain.org)
+### 1. Kidney Cancer Molecular Subtypes: RNA-seq Deconvolution & Target Safety Profiling
+* **The Problem:** Traditional categorical subtyping misses aggressive, transitional "mixed-phenotype" tumors, leaving severe patient clinical trajectories unmonitored and stalling preclinical therapeutic discovery.
+* **The Solution:** Engineered an R-Bioconductor transcriptomic pipeline utilizing DESeq2 and robust linear regression deconvolution to compute continuous Proportional Subtype Assignments (PSA) across a 174-gene signature. 
+* **The Impact:** Built an automated, multi-threaded screening module to stream-parse multi-gigabyte normal tissue count matrices (GTEx v10), mapping target-specific toxicological profiles to optimize preclinical drug target safety windows.
+* **Tech Stack:** R, Bioconductor, DESeq2, Empirical Bayes GLMs.
 
-**First Author**
-Kandalkar A, Dinesh A, Nagare S. Identification of potent natural inhibitor against papain-like protease of SARS-CoV-2: an in silico approach.
-*Defence Life Science Journal*, 2023. · [DOI: 10.14429/dlsj.7.17831](https://doi.org/10.14429/dlsj.7.17831)
+### 2. AI Explainability & RAG Pipelines (Precision-Omics lab, Icahn School of Medicine at Mount Sinai Hospital)
+* **The Problem:** AI hallucination risks and untrustworthy models can disrupt R&D workflows and compromise data integrity.
+* **The Solution:** Engineered a custom Python benchmarking system that tracks and evaluates the step-by-step reasoning of AI agents. Developed an automated Retrieval-Augmented Generation (RAG) pipeline that cross-references model outputs with verified databases.
+* **The Impact:** Transformed untrustworthy models into transparent, auditable decision pathways for R&D teams and drastically minimized prediction errors.
+* **Tech Stack:** Python, RAG, AI Agents, LLMs.
 
-**ORCID:** [0000-0001-9257-2089](https://orcid.org/0000-0001-9257-2089)
+### 3. Structural Modeling with AlphaLink2 (Mass General Hospital)
+* **The Problem:** Critical protein-protein interfaces governing oligomerization were hidden, complicating experimental validation.
+* **The Solution:** Predicted dimeric and tetrameric structural states using AlphaLink2 by integrating crosslinking mass spectrometry constraints. 
+* **The Impact:** Optimized crosslink-guided modeling parameters to maximize constraint satisfaction and validated model quality using pLDDT and PAE metrics, successfully isolating high-confidence structural target regions.
+* **Tech Stack:** AlphaLink2, Mass Spectrometry Data, Structural Bioinformatics.
 
----
+### 4. Death Domain Fold (DDF) Database (Boston Children's Hospital)
+* **The Problem:** A lack of standardized data formatting and centralized access hindered cross-functional research reproducibility.
+* **The Solution:** Compiled, curated, and launched a centralized, public Death Domain Fold (DDF) database featuring 209 entries (www.deathdomain.org).
+* **The Impact:** Automated the pipeline by integrating AlphaFold models with the DPAM tool via custom Python scripts, standardizing the structural biology workflow and dramatically cutting time-to-delivery.
+* **Tech Stack:** Python, AlphaFold, DPAM.
 
-## 🛠️ Technical Skills
-
-**Languages and Core Tools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**ML and Data Science**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
-![SHAP](https://img.shields.io/badge/SHAP-7B68EE?style=flat)
-
-**Genomics and Transcriptomics**
-
-![Nextflow](https://img.shields.io/badge/Nextflow-3EAE2B?style=flat&logo=nextflow&logoColor=white)
-![Scanpy](https://img.shields.io/badge/Scanpy-4B8BBE?style=flat)
-![Seurat](https://img.shields.io/badge/Seurat-2E8B57?style=flat)
-![Squidpy](https://img.shields.io/badge/Squidpy-7B2D8B?style=flat)
-![DESeq2](https://img.shields.io/badge/DESeq2-003366?style=flat)
-![GATK](https://img.shields.io/badge/GATK-CC0000?style=flat)
-![10x Visium](https://img.shields.io/badge/10x%20Visium-0072CE?style=flat)
-
-**Structure Prediction and Molecular Modeling**
-
-![AlphaFold](https://img.shields.io/badge/AlphaFold2%2F3-0F4C81?style=flat)
-![AlphaLink2](https://img.shields.io/badge/AlphaLink2-2C3E50?style=flat)
-![PyMOL](https://img.shields.io/badge/PyMOL-E74C3C?style=flat)
-![VMD](https://img.shields.io/badge/VMD-1ABC9C?style=flat)
-![UCSF Chimera](https://img.shields.io/badge/UCSF%20Chimera-2980B9?style=flat)
-![AutoDock Vina](https://img.shields.io/badge/AutoDock%20Vina-8E44AD?style=flat)
-
-**Molecular Dynamics**
-
-![AMBER](https://img.shields.io/badge/AMBER-E67E22?style=flat)
-![OpenMM](https://img.shields.io/badge/OpenMM-2ECC71?style=flat)
-![NAMD](https://img.shields.io/badge/NAMD-E74C3C?style=flat)
-![MMPBSA](https://img.shields.io/badge/MMPBSA-16A085?style=flat)
+## 🎓 Education
+* **Master of Science in Bioinformatics** | Northeastern University, Boston, MA (Dec 2025)
+* **Leadership:** Graduate Student Ambassador
 
 ---
 
-## 📬 Connect
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ankitakandalkar-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ankitakandalkar)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9257--2089-A6CE39?style=flat&logo=orcid)](https://orcid.org/0000-0001-9257-2089)
