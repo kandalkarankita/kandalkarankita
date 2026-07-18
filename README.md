@@ -1,4 +1,4 @@
-# Hi there, I'm Ankita Tukaram Kandalkar! 👋
+# Hi there, I'm Ankita T. Kandalkar! 👋
 
 **Bioinformatics Data Scientist**
 
