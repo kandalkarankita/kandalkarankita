@@ -16,25 +16,13 @@ I am a Bioinformatics Data Scientist with a Master's degree and hands-on experie
 
 ## 🚀 Featured Projects & Experience
 
-### 1. Kidney Cancer Molecular Subtypes: RNA-seq Deconvolution & Target Safety Profiling
-* **The Problem:** Traditional categorical subtyping misses aggressive, transitional "mixed-phenotype" tumors, leaving severe patient clinical trajectories unmonitored and stalling preclinical therapeutic discovery.
-* **The Solution:** Engineered an R-Bioconductor transcriptomic pipeline utilizing DESeq2 and robust linear regression deconvolution to compute continuous Proportional Subtype Assignments (PSA) across a 174-gene signature. 
-* **The Impact:** Built an automated, multi-threaded screening module to stream-parse multi-gigabyte normal tissue count matrices (GTEx v10), mapping target-specific toxicological profiles to optimize preclinical drug target safety windows.
-* **Tech Stack:** R, Bioconductor, DESeq2, Empirical Bayes GLMs.
-
-### 2. AI Explainability & RAG Pipelines (Precision-Omics lab, Icahn School of Medicine at Mount Sinai Hospital)
-* **The Problem:** AI hallucination risks and untrustworthy models can disrupt R&D workflows and compromise data integrity.
-* **The Solution:** Engineered a custom Python benchmarking system that tracks and evaluates the step-by-step reasoning of AI agents. Developed an automated Retrieval-Augmented Generation (RAG) pipeline that cross-references model outputs with verified databases.
-* **The Impact:** Transformed untrustworthy models into transparent, auditable decision pathways for R&D teams and drastically minimized prediction errors.
-* **Tech Stack:** Python, RAG, AI Agents, LLMs.
-
-### 3. Structural Modeling with AlphaLink2 (Mass General Hospital)
+### Structural Modeling with AlphaLink2 (Mass General Hospital)
 * **The Problem:** Critical protein-protein interfaces governing oligomerization were hidden, complicating experimental validation.
 * **The Solution:** Predicted dimeric and tetrameric structural states using AlphaLink2 by integrating crosslinking mass spectrometry constraints. 
 * **The Impact:** Optimized crosslink-guided modeling parameters to maximize constraint satisfaction and validated model quality using pLDDT and PAE metrics, successfully isolating high-confidence structural target regions.
 * **Tech Stack:** AlphaLink2, Mass Spectrometry Data, Structural Bioinformatics.
 
-### 4. Death Domain Fold (DDF) Database (Boston Children's Hospital)
+### Death Domain Fold (DDF) Database (Boston Children's Hospital)
 * **The Problem:** A lack of standardized data formatting and centralized access hindered cross-functional research reproducibility.
 * **The Solution:** Compiled, curated, and launched a centralized, public Death Domain Fold (DDF) database featuring 209 entries (www.deathdomain.org).
 * **The Impact:** Automated the pipeline by integrating AlphaFold models with the DPAM tool via custom Python scripts, standardizing the structural biology workflow and dramatically cutting time-to-delivery.
